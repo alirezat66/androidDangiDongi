@@ -1,0 +1,9 @@
+<resources>
+    <integer name="anim_duration_very_long">1500</integer>
+    <integer name="anim_duration_long">500</integer>
+    <integer name="anim_duration_medium">300</integer>
+    <dimen name="title_size">22sp</dimen>
+    <dimen name="big_size">18sp</dimen>
+    <dimen name="normal_size">16sp</dimen>
+    <dimen name="small_size">14sp</dimen>
+</resources>
